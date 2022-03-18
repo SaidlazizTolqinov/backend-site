@@ -1,2 +1,2 @@
-# backend-site
-create in backend
+# web-backend
+ in pug and public folders
